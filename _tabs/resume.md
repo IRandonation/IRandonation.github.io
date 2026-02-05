@@ -2,7 +2,7 @@
 layout: page
 icon: fas fa-user
 order: 1
-title: 个人信息
+title: Resume
 ---
 
 # 个人简历
