@@ -11,3 +11,6 @@ description: 从工程师视角出发，构建包含力量训练、动作模式�
 目前已更新章节：
 0. [构建自己的训练体系-Chapter 0 Introduction]({% post_url 2026-02-14-GymGuide-chapter0 %})
 1. [力量训练体系建立-Chapter 1 Strength Training]({% post_url 2026-02-14-GymGuide-chapter1 %})
+2. [动作选择：适配身体的组件-Chapter 2 Exercise Selection]({% post_url 2026-02-15-GymGuide-chapter2 %})
+3. [硬件规格与调试：解剖结构与动作模式-Chapter 3 Body Hardware Specs & Debugging]({% post_url 2026-02-15-GymGuide-chapter3 %})
+4. [核心算法：六大动作模式-Chapter 4 The Core Algorithms]({% post_url 2026-02-15-GymGuide-chapter4 %})
