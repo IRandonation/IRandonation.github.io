@@ -1,5 +1,5 @@
 ---
-title: 发动机功能：有氧能力的开发与应用-chapter 5 the Aerobic capacity
+title: "Build your own body：构建自己的训练体系-Chapter 5 The Aerobic Capacity"
 date: 2026-05-08 23:07:23  +0800
 categories: [Sharing]
 tags: [fitness, jag]
